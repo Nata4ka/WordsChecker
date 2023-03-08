@@ -16,6 +16,6 @@ public class Main {
         System.out.println(text.hasWord("282006"));
 
 
-        }
-
     }
+
+}
